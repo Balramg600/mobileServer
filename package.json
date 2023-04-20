@@ -2,10 +2,10 @@
   "name": "carserverapp",
   "version": "1.0.0",
   "description": "",
-  "main": "empServer.js",
+  "main":  "mobileServer.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node empServer.js"
+    "start": "node mobileServer.js"
   },
   "keywords": [],
   "author": "",
